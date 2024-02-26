@@ -1,4 +1,4 @@
-#encryption and decryption of message
+#encryption and decryption of message using cipher algorithm
 text =input("Enter the message : ")
 custom_key = 'happycoding'
 
